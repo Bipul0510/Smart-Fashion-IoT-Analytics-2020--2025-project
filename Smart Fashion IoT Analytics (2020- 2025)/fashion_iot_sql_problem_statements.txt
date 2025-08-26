@@ -1,0 +1,27 @@
+
+Fashion IoT Analytics 2025 - SQL Problem Statements
+===================================================
+
+1) Top IoT Cities
+-----------------
+Find the top 5 cities by count of transactions where IoT features were used.
+
+2) Average Carbon Footprint
+---------------------------
+Compute the average carbon footprint (gCO2) per product category.
+
+3) High IoT Engagement Customers
+-------------------------------
+List customers who used IoT features more than 5 times.
+
+4) Sales Growth: Smartwatch vs IoT Sneakers
+-------------------------------------------
+Calculate yearly sales totals for Smartwatch and IoT Sneakers (2020-2025)
+and compute year-over-year growth percentage for each.
+
+5) Connectivity Preference
+--------------------------
+Segment transactions by Device_Connectivity and find percentages for each.
+
+Instructions: Import 'fashion_iot_data.csv' into your SQL engine (SQLite, MySQL, Postgres).
+Use Purchase_Date parsing functions as required by your SQL flavor.
