@@ -7,61 +7,61 @@ Objective: Analyze IoT-enabled fashion products (smart wearables, connected clot
 
 Use Case Areas:
 
-Smart wearables (health + fashion devices)   
+* Smart wearables (health + fashion devices)   
 
-RFID-based inventory management
+* RFID-based inventory management
 
-IoT-based personalized shopping (smart mirrors, AR fitting rooms)
+* IoT-based personalized shopping (smart mirrors, AR fitting rooms)
 
-Sustainability tracking (carbon footprint monitoring of fashion items)
+* Sustainability tracking (carbon footprint monitoring of fashion items)
 
 
 2. SQL Problem Statements (fashion_iot_queries.sql)
 
-Find top 5 cities where IoT fashion devices are most popular.
+* Find top 5 cities where IoT fashion devices are most popular.
 
-Calculate average carbon footprint reduction per product.
+* Calculate average carbon footprint reduction per product.
 
-Identify repeat customers who used IoT features > 5 times.
+* Identify repeat customers who used IoT features > 5 times.
 
-Compare sales growth (2020–2025) of Smartwatches vs IoT Sneakers.
+* Compare sales growth (2020–2025) of Smartwatches vs IoT Sneakers.
 
-Segment customers by connectivity preference (WiFi vs 5G vs Bluetooth).
+* Segment customers by connectivity preference (WiFi vs 5G vs Bluetooth).
 
 
 3. Python Analytics (fashion_iot_analysis.py)
 
-Import CSV data with pandas.
+* Import CSV data with pandas.
 
-Perform EDA (Exploratory Data Analysis) on IoT fashion adoption trends.
+* Perform EDA (Exploratory Data Analysis) on IoT fashion adoption trends.
 
-Use Matplotlib / Seaborn for: Sales trend by year (2020–2025).
+* Use Matplotlib / Seaborn for: Sales trend by year (2020–2025).
 
-IoT feature adoption vs non-IoT products.
+* IoT feature adoption vs non-IoT products.
 
-Customer demographics (Age, Gender) vs IoT device purchases.
+* Customer demographics (Age, Gender) vs IoT device purchases.
 
-Build a Predictive Model (Regression/Classification):
+* Build a Predictive Model (Regression/Classification):
 
-Predict if a customer will buy an IoT-enabled fashion product.
+* Predict if a customer will buy an IoT-enabled fashion product.
 
-Output insights into visual dashboards.
+* Output insights into visual dashboards.
 
 
 4.Visualization (PowerPoint / PDF Report)
 
 Slides will include:
 
-Project Introduction
+* Project Introduction
 
-IoT in Fashion – Market Context 2025
+* IoT in Fashion – Market Context 2025
 
-Dataset Overview
+* Dataset Overview
 
-SQL Analysis Results
+* SQL Analysis Results
 
-Python Analysis & Visuals
+* Python Analysis & Visuals
 
-Predictive Model Results
+* Predictive Model Results
 
-Business Recommendations
+* Business Recommendations
