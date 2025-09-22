@@ -16,6 +16,7 @@ Use Case Areas:
 * Sustainability tracking (carbon footprint monitoring of fashion items)
 
 
+
 2. SQL Problem Statements (fashion_iot_queries.sql)
 
 * Find top 5 cities where IoT fashion devices are most popular.
@@ -27,6 +28,7 @@ Use Case Areas:
 * Compare sales growth (2020–2025) of Smartwatches vs IoT Sneakers.
 
 * Segment customers by connectivity preference (WiFi vs 5G vs Bluetooth).
+
 
 
 3. Python Analytics (fashion_iot_analysis.py)
@@ -46,6 +48,7 @@ Use Case Areas:
 * Predict if a customer will buy an IoT-enabled fashion product.
 
 * Output insights into visual dashboards.
+
 
 
 4.Visualization (PowerPoint / PDF Report)
