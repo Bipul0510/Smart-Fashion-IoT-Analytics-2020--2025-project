@@ -16,7 +16,6 @@ Use Case Areas:
 * Sustainability tracking (carbon footprint monitoring of fashion items)
 
 
-
 2. SQL Problem Statements (fashion_iot_queries.sql)
 
 * Find top 5 cities where IoT fashion devices are most popular.
