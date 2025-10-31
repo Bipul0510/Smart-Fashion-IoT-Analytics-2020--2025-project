@@ -1,6 +1,6 @@
-### 📌 End-to-End Project: “Fashion IoT Analytics 2025”
+## 📌 End-to-End Project: “Fashion IoT Analytics 2025”
 
-#### 1. Project Overview
+### 1. Project Overview
 
 Title: Smart Fashion IoT Analytics 2025
 
@@ -17,7 +17,7 @@ Use Case Areas:
 * Sustainability tracking (carbon footprint monitoring of fashion items)
 
 
-#### 2. SQL Problem Statements (fashion_iot_queries.sql)
+### 2. SQL Problem Statements (fashion_iot_queries.sql)
 
 * Find top 5 cities where IoT fashion devices are most popular.
 
@@ -31,7 +31,7 @@ Use Case Areas:
 
 
 
-#### 3. Python Analytics (fashion_iot_analysis.py)
+### 3. Python Analytics (fashion_iot_analysis.py)
 
 * Import CSV data with pandas.
 
@@ -51,7 +51,7 @@ Use Case Areas:
 
 
 
-#### 4.Visualization (PowerPoint / PDF Report)
+### 4.Visualization (PowerPoint / PDF Report)
 
 Slides will include:
 
