@@ -4,7 +4,7 @@
 
 Title: Smart Fashion IoT Analytics 2025
 
-#### Objective: Analyze IoT-enabled fashion products (smart wearables, connected clothing, AR/VR shopping experiences, RFID-enabled inventory) to extract trends, optimize operations, and predict customer behavior.
+Objective: Analyze IoT-enabled fashion products (smart wearables, connected clothing, AR/VR shopping experiences, RFID-enabled inventory) to extract trends, optimize operations, and predict customer behavior.
 
 Use Case Areas:
 
