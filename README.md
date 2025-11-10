@@ -1,6 +1,5 @@
 ### 📌 End-to-End Project: “Fashion IoT Analytics 2025”
 
-#### 1. Project Overview
 
 Title: Smart Fashion IoT Analytics 2025
 
