@@ -7,7 +7,7 @@ Objective: Analyze IoT-enabled fashion products (smart wearables, connected clot
 
 Use Case Areas:
 
-* Smart wearables (health + fashion devices)   
+* Smart wearables (health + fashion devices) 
 
 * RFID-based inventory management
 
