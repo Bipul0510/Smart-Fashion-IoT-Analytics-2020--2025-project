@@ -66,4 +66,4 @@ Slides will include:
 
 * Predictive Model Results
 
-* Business Recommendation
+* Business Recommendations
